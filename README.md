@@ -7,7 +7,7 @@
 
 ![Static Badge](https://img.shields.io/badge/Blog?logo=blogger&label=fsdf&link=https://blog.sullivanzeng.top/)
 ![Static Badge](https://img.shields.io/badge/Bilibili?logo=blogger&label=fsdf&link=https://space.bilibili.com/275981304)
-
+![Static Badge](https://img.shields.io/badge/Website-博客-blue)
 
 <details>
   <summary>Github Stats ⚡</summary>
