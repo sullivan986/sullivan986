@@ -8,4 +8,4 @@
 <a href="https://space.bilibili.com/275981304">![Static Badge](https://img.shields.io/badge/Bilibili-小电视-pink) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sullivan986&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sullivan986&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
