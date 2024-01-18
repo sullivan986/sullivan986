@@ -5,8 +5,8 @@
 ^ These icons are one of my projects, and modern c++ is best!
 
 
-<a href="#">![Static Badge](https://img.shields.io/badge/Blog?logo=blogger&link=https://blog.sullivanzeng.top/)
-<a href="#">![Static Badge](https://img.shields.io/badge/Bilibili?logo=blogger&link=https://space.bilibili.com/275981304)
+<a href="https://blog.sullivanzeng.top">![Static Badge](https://img.shields.io/badge/Blog-博客-blue)
+<a href="https://space.bilibili.com/275981304">![Static Badge](https://img.shields.io/badge/Bilibili)
 <a href="#">![Static Badge](https://img.shields.io/badge/Website-博客-blue&logo=blogger)
 
 <details>
