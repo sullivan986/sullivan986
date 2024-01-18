@@ -7,7 +7,7 @@
 
 <a href="https://blog.sullivanzeng.top">![Static Badge](https://img.shields.io/badge/Blog-博客-blue) 
 <a href="https://space.bilibili.com/275981304">![Static Badge](https://img.shields.io/badge/Bilibili-小电视-pink) 
-<a href="#">![Static Badge](https://img.shields.io/badge/Website-博客-blue&logo=blogger) 
+<a href="#">![Static Badge](https://img.shields.io/badge/Website-blogger-博客-blue&logo=blogger) 
 
 <details>
   <summary>Github Stats ⚡</summary>
