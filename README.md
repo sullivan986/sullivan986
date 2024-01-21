@@ -3,7 +3,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,tensorflow,linux,vite,tauri,blender)](https://skillicons.dev) 
 
-^ These icons are one of my projects, and modern c++ is best!
+^ These icons are one of my projects, and modern c++ is the best language!
 
 <a href="https://blog.sullivanzeng.top">![Static Badge](https://img.shields.io/badge/Blog-博客-blue) 
 <a href="https://space.bilibili.com/275981304">![Static Badge](https://img.shields.io/badge/Bilibili-小电视-pink) 
