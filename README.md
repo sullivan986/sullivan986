@@ -9,4 +9,4 @@
 <a href="https://space.bilibili.com/275981304">![Static Badge](https://img.shields.io/badge/Bilibili-小电视-pink) 
 <a href="http://gcjsxy.swu.edu.cn">![Static Badge](https://img.shields.io/badge/School-西南大学-green) 
 
-[![Top Langs](https://github-stats-extended.vercel.app/api?username=sullivan986&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=sullivan986&theme=onedark)](https://github.com/stats-organization/github-stats-extended)
